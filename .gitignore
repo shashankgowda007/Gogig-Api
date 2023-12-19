@@ -1,0 +1,21 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# esbuild directories
+.esbuild
+
+#env
+.env
+
+#DS_store
+.DS_Store
+
+# vscode
+.vscode
+
+#test
+.test.ts
